@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Santiago 👋
+
+- 🌱 I’m currently learning Full Stack Web Dev with Javascript
+- 📫 How to reach me: 
+    - s.rubio91@gmail.com
+    - https://www.linkedin.com/in/santiago-javier-rubio/
 
 <!--
 **SantiagoJavierRubio/SantiagoJavierRubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
