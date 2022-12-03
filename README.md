@@ -1,10 +1,11 @@
 ### Hi there, I'm Santiago 👋
 
-- 🌱 I’m currently learning Full Stack Web Dev with Javascript
+- 🧑‍💻 Full Stack Web Dev with Javascript and Typescript (React / Node)
 - Check out my [portfolio](https://santiagojavierrubio.herokuapp.com/)!
 - 📫 How to reach me: 
     - s.rubio91@gmail.com
     - [Linkedin](https://www.linkedin.com/in/santiago-javier-rubio/)
+- 🔭 I’m currently working on freelance projects
 
 <!--
 **SantiagoJavierRubio/SantiagoJavierRubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
