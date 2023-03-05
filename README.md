@@ -1,7 +1,7 @@
 ### Hi there, I'm Santiago 👋
 
 - 🧑‍💻 Full Stack Web Dev with Javascript and Typescript (React / Node)
-- Check out my [portfolio](https://santiagojavierrubio.herokuapp.com/)!
+- Check out my [portfolio](https://www.santiagojrubio.com.ar/)!
 - 📫 How to reach me: 
     - s.rubio91@gmail.com
     - [Linkedin](https://www.linkedin.com/in/santiago-javier-rubio/)
